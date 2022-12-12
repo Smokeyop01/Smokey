@@ -1,29 +1,29 @@
 <p align="center">
-   <a href="https://github.com/FantoX001">
+   <a href="https://github.com/Smokeyop01">
     <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="610">
      
 </p>
-<h1 align="center"> Miku Nakano (Beta)
+<h1 align="center"> Yumeko (Beta)
 </h1>
 <p align="center"> 
-  Konochiwa Senpai, I am "Miku Nakano" a WhatsApp bot made by Fantox to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Konochiwa Senpai, I am "Yumeko" a WhatsApp bot made by Smokey to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
 <p align="center">
-  <a href="https://github.com/FantoX001/Miku-MD/fork">
-    <img src="https://img.shields.io/github/forks/FantoX001/Miku-MD?label=Fork&style=social">
+  <a href="https://https://github.com/Smokeyop01/Yumeko">
+    <img src="https://img.shields.io/github/forks/Smokeyop01/Yumekk?label=Fork&style=social">
     
     
-  <a href="https://github.com/FantoX001/Miku-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/FantoX001/Miku-MD?style=social">
+  <a href="https://github.com/Smokeyop01/Yumeko/stargazers">
+    <img src="https://img.shields.io/github/stars/Smokeyop01/Yumeko?style=social">
   </a>
 
 <p align="center">
-  <a href="https://github.com/FantoX001/Miku-MD">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Miku-MD.visitor-badge&left_text=Total%20Repo%20Visits">
+  <a href="https://github.com/Smokeyop01/Yumeko">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Smokeyop01/Yumeko.visitor-badge&left_text=Total%20Repo%20Visits">
     
     
-<a href="https://github.com/FantoX001">
-    <img src="(https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Shikimori-MD.visitor-badge&left_text=Total%20Repo%20Visitors)">
+<a href="https://github.com/Smokeyop01">
+    <img src="(https://visitor-badge.glitch.me/badge?page_id=https://github.com/Smokeyop01/Shikimori-MD.visitor-badge&left_text=Total%20Repo%20Visitors)">
   </a>
 </br>
       
